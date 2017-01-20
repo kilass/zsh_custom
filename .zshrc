@@ -1,0 +1,5 @@
+source "$HOME/.zsh_custom/zplug.zsh"
+source "$HOME/.zsh_custom/history.zsh"
+source "$HOME/.zsh_custom/aliases.zsh"
+source "$HOME/.zsh_custom/env.zsh"
+source "$HOME/.zsh_custom/key-bindings.zsh"
