@@ -5,4 +5,4 @@ curl -sL zplug.sh/installer | zsh
 if [ -f ~/.zshrc ]; then
   rm ~/.zshrc
 fi
-ln -s ~/.zsh_custon/.zshrc ~/.zshrc
+ln -s ~/.zsh_custom/.zshrc ~/.zshrc
